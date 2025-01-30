@@ -8,7 +8,7 @@ WHERE PersonID = 1
 
 --Crud
 INSERT INTO [dbo].[Person] ([Name]) VALUES('Teresa')
-
+INSERT INTO [dbo].[Person] ([Name]) VALUES('Dina')
 --Crud se pondeia a todos porque no se especifica a quien se le cambia el nombre
 UPDATE [dbo].[Person] SET 
 [Name] ='Perla'
@@ -29,6 +29,9 @@ WHERE PersonID = 3
 UPDATE [dbo].[Person] SET 
 [Name] ='Maria'
 WHERE PersonID = 6
+
+
+
 
 --Crud
 
