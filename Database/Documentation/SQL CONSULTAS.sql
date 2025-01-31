@@ -12,6 +12,8 @@ INSERT INTO [dbo].[Person] ([Name]) VALUES('Andrea')
 INSERT INTO [dbo].[Person] ([Name]) VALUES('Adalid')
 INSERT INTO [dbo].[Person] ([Name]) VALUES('Maria')
 INSERT INTO [dbo].[Person] ([Name]) VALUES('Karime')
+INSERT INTO [dbo].[Person] ([Name]) VALUES('Romina')
+INSERT INTO [dbo].[Person] ([Name]) VALUES('Dina')
 
 --Crud se pondeia a todos porque no se especifica a quien se le cambia el nombre
 UPDATE [dbo].[Person] SET 
