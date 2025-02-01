@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|c:\\diplomados\\auladiser\\0l2801\\backend\\nikeshi\\nikeshi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|solutionrelative:nikeshi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|c:\\diplomados\\auladiser\\0l2801\\backend\\nikeshi\\nikeshi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|solutionrelative:nikeshi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|c:\\diplomados\\auladiser\\0l2801\\backend\\nikeshi\\nikeshi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|solutionrelative:nikeshi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|c:\\diplomados\\auladiser\\0l2801\\backend\\nikeshi\\nikeshi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|solutionrelative:nikeshi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|c:\\diplomados\\auladiser\\0l2801\\backend\\nikeshi\\nikeshi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|solutionrelative:nikeshi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|c:\\diplomados\\auladiser\\0l2801\\backend\\nikeshi\\nikeshi\\nikeshi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B66DC8A-B471-40FF-8886-EE3B8EE3DF2A}|Nikeshi\\Nikeshi.csproj|solutionrelative:nikeshi\\nikeshi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Nikeshi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Nikeshi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T16:32:27.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Nikeshi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Nikeshi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:56:44.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Startup.cs",
+              "RelativeDocumentMoniker": "Nikeshi\\Startup.cs",
+              "ToolTip": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Startup.cs",
+              "RelativeToolTip": "Nikeshi\\Startup.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:53:19.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Nikeshi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\WeatherForecast.cs",
+              "RelativeToolTip": "Nikeshi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:38:04.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nikeshi.csproj",
+              "DocumentMoniker": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Nikeshi.csproj",
+              "RelativeDocumentMoniker": "Nikeshi\\Nikeshi.csproj",
+              "ToolTip": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Nikeshi.csproj",
+              "RelativeToolTip": "Nikeshi\\Nikeshi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-01T07:56:07.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Program.cs",
+              "RelativeDocumentMoniker": "Nikeshi\\Program.cs",
+              "ToolTip": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Program.cs",
+              "RelativeToolTip": "Nikeshi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:33:35.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
