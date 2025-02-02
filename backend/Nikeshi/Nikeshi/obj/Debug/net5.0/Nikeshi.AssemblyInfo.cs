@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6fa508f0-accb-41e9-a0bf-dcf24e0d5d0e")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("b574235d-9102-4235-91ad-e34959815634")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nikeshi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+771dbe69a8255603e74d208fc133c797b6452c3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b9976cca5cd2dab07ce4863744fda1f8587eb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nikeshi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nikeshi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

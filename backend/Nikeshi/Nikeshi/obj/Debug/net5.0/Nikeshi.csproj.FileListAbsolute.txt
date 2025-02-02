@@ -6,10 +6,14 @@ C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Nikeshi.
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Nikeshi.runtimeconfig.dev.json
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Nikeshi.dll
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Nikeshi.pdb
+C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\obj\Debug\net5.0\Nikeshi.csproj.AssemblyReference.cache
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\obj\Debug\net5.0\Nikeshi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Diplomados\Auladiser\0L2801\backend\Nikeshi\Nikeshi\obj\Debug\net5.0\Nikeshi.AssemblyInfoInputs.cache

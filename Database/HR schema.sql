@@ -18,5 +18,10 @@ CREATE TABLE Jobs
 }
 CREATE TABLE Employees
 {
-  
+  empid int NOT NULL
+  CONSTRAINT PK_emps_empif PRIMARY KEY,
+  empname varchar(10)  NOT NULL,
+  deptno int NULLCONSTRAINT FK_emps_depts
+  REFERENCES Departaments(deptno),
+
 }

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Nikeshi.Context;
+using Nikeshi.Models;
 
 namespace Nikeshi.Controllers
 {
@@ -17,10 +19,12 @@ namespace Nikeshi.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
+        private readonly AppDBContext _context;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, AppDBContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         [HttpGet]
@@ -34,6 +38,13 @@ namespace Nikeshi.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+        [HttpGet]
+        public string Get(int id)
+        {
+            //TODO:adredar el DBSet en el AppDBContext
+            _context.ToDoLists.ToList();
+            return "Hola";
         }
     }
 }
