@@ -3,7 +3,10 @@
     "",
     "\\backend",
     "\\backend\\Nikeshi",
-    "\\backend\\Nikeshi\\Nikeshi"
+    "\\backend\\Nikeshi\\Nikeshi",
+    "\\backend\\Nikeshi\\Nikeshi\\Context",
+    "\\backend\\Nikeshi\\Nikeshi\\Controllers"
   ],
+  "SelectedNode": "\\backend\\Nikeshi\\Nikeshi\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

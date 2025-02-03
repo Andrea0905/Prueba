@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nikeshi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b9976cca5cd2dab07ce4863744fda1f8587eb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddaefe84b9ab31757068c5440fce73fcb93bbfc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nikeshi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nikeshi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

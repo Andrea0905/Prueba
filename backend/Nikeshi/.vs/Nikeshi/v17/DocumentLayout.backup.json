@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BCAC3F18-DA3C-40DB-9E96-889B718B393B}|Nikeshi\\Nikeshi.csproj|c:\\diplomados\\auladiser\\0l2801\\backend\\nikeshi\\nikeshi\\nikeshi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BCAC3F18-DA3C-40DB-9E96-889B718B393B}|Nikeshi\\Nikeshi.csproj|solutionrelative:nikeshi\\nikeshi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Nikeshi",
-              "DocumentMoniker": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Nikeshi.csproj",
-              "RelativeDocumentMoniker": "Nikeshi\\Nikeshi.csproj",
-              "ToolTip": "C:\\Diplomados\\Auladiser\\0L2801\\backend\\Nikeshi\\Nikeshi\\Nikeshi.csproj",
-              "RelativeToolTip": "Nikeshi\\Nikeshi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T21:50:29.809Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

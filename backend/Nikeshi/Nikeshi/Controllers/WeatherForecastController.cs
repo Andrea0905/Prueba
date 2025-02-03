@@ -21,7 +21,8 @@ namespace Nikeshi.Controllers
         private readonly ILogger<WeatherForecastController> _logger;
         private readonly AppDBContext _context;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger, AppDBContext context)
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, 
+            AppDBContext context)
         {
             _logger = logger;
             _context = context;
@@ -40,11 +41,13 @@ namespace Nikeshi.Controllers
             .ToArray();
         }
         [HttpGet]
-        public string Get(int id)
+        [Route("[action]")]
+        public ActionResult<IEnumerable<ToDoList>> GetAllToDoLidt()
         {
-            //TODO:adredar el DBSet en el AppDBContext
-            _context.ToDoLists.ToList();
-            return "Hola";
+            
+            var todoList =_context.ToDoLists.ToList();
+            return Ok(todoList);
+
         }
     }
 }

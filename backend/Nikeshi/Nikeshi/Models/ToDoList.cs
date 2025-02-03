@@ -1,8 +1,11 @@
-﻿namespace Nikeshi.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Nikeshi.Models
 {
     public class ToDoList
     {
-        public int Id { get; set; }
+        [Key]
+        public int ToDoListId { get; set; }
         public string Name { get; set; }
     }
 }

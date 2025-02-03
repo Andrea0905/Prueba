@@ -12,6 +12,9 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Nikeshi.Context;
+using System.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace Nikeshi
 {
@@ -27,7 +30,9 @@ namespace Nikeshi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<AppDBContext>();
+            var connection = Configuration.GetConnectionString("AuladiserDB");
+
+            IServiceCollection serviceCollection = services.AddDbContext<AppDBContext>(options => options.UseSqlServer(connection));
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
